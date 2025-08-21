@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#1ec8ff"/>
+      <stop offset="60%" stop-color="#10245a"/>
+      <stop offset="100%" stop-color="#071330"/>
+    </radialGradient>
+  </defs>
+  <circle cx="54" cy="54" r="50" fill="url(#g)" stroke="#FFCC00" stroke-width="4"/>
+  <g fill="none" stroke="#FFCC00" stroke-width="2">
+    <circle cx="54" cy="54" r="42"/>
+    <circle cx="54" cy="54" r="32"/>
+  </g>
+  <g font-family="Trebuchet MS, sans-serif" font-weight="bold" font-size="8" fill="#FFCC00" text-anchor="middle">
+    <text x="54" y="48">EXPERTO</text>
+    <text x="54" y="60">EN JAPÓN</text>
+  </g>
+</svg>

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>¡Millonario Japón! — Quiz familiar</title>
+  <link rel="stylesheet" href="styles.css" />
+  <meta name="theme-color" content="#0a1a3a"/>
+</head>
+<body>
+  <div id="app">
+    <header class="app-header">
+      <div class="brand">
+        <img src="assets/logo.svg" alt="Logo" class="logo"/>
+        <h1>¿Quién quiere ser experto en Japón?</h1>
+      </div>
+    </header>
+
+    <main>
+      <!-- Start Screen -->
+      <section id="screen-start" class="screen active">
+        <div class="card intro">
+          <h2>¡Konnichiwa! 👋</h2>
+          <p>Juego tipo “¿Quién quiere ser millonario?” con <strong>toque Japón</strong> y 100 preguntas.</p>
+          <div class="settings">
+            <div class="setting">
+              <label>Número de preguntas en la partida</label>
+              <select id="setting-count">
+                <option value="15" selected>15 (modo TV)</option>
+                <option value="20">20</option>
+                <option value="30">30</option>
+                <option value="100">Todas (100)</option>
+              </select>
+            </div>
+            <div class="setting">
+              <label>Dificultad inicial</label>
+              <select id="setting-difficulty">
+                <option value="auto" selected>Progresiva (fácil → difícil)</option>
+                <option value="mix">Mixta (aleatoria)</option>
+              </select>
+            </div>
+          </div>
+          <button id="btn-start" class="btn primary">Comenzar</button>
+          <details class="notes">
+            <summary>¿Cómo se juega?</summary>
+            <ul>
+              <li>Responde 4 opciones. Una es correcta.</li>
+              <li>Tienes comodines: <strong>50:50</strong>, <strong>Público</strong>, <strong>Llamada</strong>.</li>
+              <li>Dinámica TV: 15 escalones con premios ficticios 💴.</li>
+            </ul>
+          </details>
+        </div>
+      </section>
+
+      <!-- Game Screen -->
+      <section id="screen-game" class="screen">
+        <div class="game-layout">
+          <aside class="ladder card">
+            <h3>Premios</h3>
+            <ol id="ladder"></ol>
+          </aside>
+
+          <section class="stage">
+            <div class="question card">
+              <div class="q-top">
+                <div class="lifelines">
+                  <button id="lifeline-5050" class="lifeline" title="50:50" aria-label="50:50">
+                    <img src="assets/ll-5050.svg" alt="50 50"/>
+                  </button>
+                  <button id="lifeline-audience" class="lifeline" title="Público" aria-label="Público">
+                    <img src="assets/ll-audience.svg" alt="Ask the audience"/>
+                  </button>
+                  <button id="lifeline-phone" class="lifeline" title="Llamada" aria-label="Llamada">
+                    <img src="assets/ll-phone.svg" alt="Phone a friend"/>
+                  </button>
+                </div>
+                <div class="progress" id="progress">
+                  <span id="prog-text">1 / 15</span>
+                  <div class="bar"><div id="prog-bar"></div></div>
+                </div>
+              </div>
+              <div id="q-text" class="q-text">Cargando…</div>
+              <div id="q-meta" class="q-meta"><span id="q-category"></span> · <span id="q-difficulty"></span></div>
+              <div class="answers">
+                <button class="answer" data-idx="0"><span class="key">A</span><span class="label"></span></button>
+                <button class="answer" data-idx="1"><span class="key">B</span><span class="label"></span></button>
+                <button class="answer" data-idx="2"><span class="key">C</span><span class="label"></span></button>
+                <button class="answer" data-idx="3"><span class="key">D</span><span class="label"></span></button>
+              </div>
+            </div>
+          </section>
+        </div>
+      </section>
+
+      <!-- Result Screen -->
+      <section id="screen-result" class="screen">
+        <div class="card result">
+          <h2>Resultado</h2>
+          <p id="result-summary"></p>
+          <div class="result-actions">
+            <button class="btn" id="btn-review">Revisar preguntas</button>
+            <button class="btn" id="btn-restart">Jugar de nuevo</button>
+          </div>
+          <div id="review" class="review"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <div class="credits">
+        <img class="pattern" src="assets/bg.svg" alt="Pattern"/>
+        <p>Hecho con ❤ para Jorge, María, Eduardo y Martín · Japón 2025</p>
+      </div>
+    </footer>
+  </div>
+
+  <script defer src="script.js"></script>
+</body>
+</html>
