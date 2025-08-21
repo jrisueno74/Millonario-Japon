@@ -1,22 +1,280 @@
+/* ================================
+   MILLONARIO JAPÓN – styles.css
+   Enfoque: alto contraste y legibilidad
+   ================================= */
 
-.q-text {
-  color:#fff;
-  text-shadow:0 1px 0 rgba(0,0,0,.4);
+/* Paleta base */
+:root{
+  --bg: #0a1020;            /* fondo general */
+  --card: #0e1a32;          /* tarjetas / bloques */
+  --card-2: #0c1730;        /* variante */
+  --border: #274b7a;        /* borde frío */
+  --text: #eaf2ff;          /* texto principal (muy claro) */
+  --muted: #b8c7e8;         /* texto secundario */
+  --brand: #ffd400;         /* acento amarillo */
+  --primary: #1f5fbf;       /* azul primario */
+  --primary-2: #164a95;     /* hover del primario */
+
+  --ok-bg: #133b29;         /* correct */
+  --ok-bd: #1d6a48;
+  --ok-tx: #ecfff6;
+
+  --bad-bg: #3b1919;        /* wrong */
+  --bad-bd: #7a2a2a;
+  --bad-tx: #ffeeee;
+
+  --shadow: 0 6px 20px rgba(0,0,0,.35);
+  --radius: 14px;
 }
-.answers .answer {
-  color:#eaf0ff;
+
+/* Reset suave + tipografía */
+*{ box-sizing:border-box; }
+html,body{ height:100%; }
+html{ -webkit-text-size-adjust:100%; }
+body{
+  margin:0;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Apple Color Emoji", "Segoe UI Emoji";
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.55;
+  -webkit-tap-highlight-color: transparent;
 }
-.answers .answer .key {
-  color:#ffe082;
+
+/* Contenedor principal */
+.container{
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 16px clamp(14px, 3vw, 24px);
 }
-.answer.correct, .answer.correct .label,
-.answer.wrong, .answer.wrong .label {
-  color:#fff;
+
+/* Cabecera / título */
+.header{
+  display:flex;
+  align-items:center;
+  gap:12px;
+  padding: 10px 0 6px;
 }
-.feedback {
-  text-align:center;
+.header h1{
+  font-size: clamp(18px, 2.6vw, 24px);
+  font-weight: 800;
+  margin:0;
+  color: var(--brand);
+}
+
+/* Tarjetas / bloques */
+.card{
+  background: linear-gradient(180deg, var(--card), var(--card-2));
+  border: 1px solid rgba(255,255,255,.06);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: clamp(14px, 2.4vw, 22px);
+}
+
+/* Barra superior de ayudas + progreso */
+.topbar{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  margin-bottom:14px;
+}
+.lifelines{
+  display:flex;
+  gap:10px;
+}
+.lifeline{
+  appearance:none;
+  border:1px solid var(--border);
+  background: #0f2142;
+  color: var(--text);
+  border-radius: 10px;
+  padding: 8px 12px;
+  font-weight: 700;
+  letter-spacing:.2px;
+  cursor:pointer;
+}
+.lifeline:hover{ background:#102650; }
+.counter{
+  color: var(--muted);
   font-weight:700;
-  min-height:1.25rem;
 }
-.feedback.ok { color:#2ecc71; }
-.feedback.bad { color:#ff4757; }
+
+/* PROGRESO fino (barra delgada) */
+.progress{
+  height: 6px;
+  flex:1;
+  background: #09122a;
+  border-radius: 999px;
+  overflow: hidden;
+  border:1px solid rgba(255,255,255,.08);
+}
+.progress > span{
+  display:block;
+  height:100%;
+  width: var(--value, 0%);
+  background: linear-gradient(90deg, #1e7bff, #46a9ff);
+}
+
+/* ======== Pregunta ======== */
+.q-block{ margin-top:6px; }
+#q-text,
+.q-text{
+  /* TEXTO DE LA PREGUNTA: alto contraste */
+  color: var(--text);
+  font-size: clamp(18px, 2.4vw, 22px);
+  font-weight: 700;
+  letter-spacing:.2px;
+  text-rendering: optimizeLegibility;
+  margin: 6px 0 12px;
+}
+
+/* Metadatos (categoría · dificultad) */
+.q-meta{
+  color: var(--muted);
+  font-size: .95rem;
+  margin-bottom: 12px;
+}
+
+/* ======== Respuestas ======== */
+.answers{
+  display:grid;
+  gap: 10px;
+}
+
+/* Botón de respuesta */
+.answer{
+  appearance:none;
+  display:flex;
+  align-items:center;
+  gap:10px;
+  width:100%;
+  text-align:left;
+  cursor:pointer;
+
+  /* Fondo oscuro + borde visible + TEXTO CLARO */
+  background: #0f2344;
+  border: 1px solid var(--border);
+  color: var(--text);
+
+  padding: 14px 16px;
+  border-radius: 12px;
+  font-size: clamp(16px, 2.2vw, 18px);
+  font-weight: 600;
+  letter-spacing:.15px;
+  box-shadow: 0 2px 0 rgba(0,0,0,.25);
+  transition: transform .02s ease, background .18s ease, border-color .18s ease, box-shadow .18s ease;
+}
+
+/* Etiqueta A/B/C/D (coincide con tu HTML) */
+.answer .key{
+  flex: none;
+  display:inline-grid;
+  place-items:center;
+  min-width: 28px; height: 28px;
+  border-radius: 8px;
+  background:#0a1a35;
+  color:#cfe2ff;
+  border:1px solid #335d96;
+  font-weight:800;
+  font-size: 0.95rem;
+}
+
+.answer .label{
+  flex:1;
+  color: var(--text);  /* <-- asegura contraste en el texto de opción */
+}
+
+.answer:hover{
+  background:#102a53;
+  border-color:#3a6fb3;
+  box-shadow: 0 3px 0 rgba(0,0,0,.28);
+}
+.answer:active{ transform: translateY(1px); }
+.answer:focus-visible{
+  outline: 2px solid #61a0ff;
+  outline-offset: 2px;
+}
+
+/* Estados correct/incorrect */
+.answer.correct{
+  background: var(--ok-bg);
+  border-color: var(--ok-bd);
+  color: var(--ok-tx);
+}
+.answer.correct .label{ color: var(--ok-tx); }
+.answer.wrong{
+  background: var(--bad-bg);
+  border-color: var(--bad-bd);
+  color: var(--bad-tx);
+}
+.answer.wrong .label{ color: var(--bad-tx); }
+
+/* ======== Escalera de premios ======== */
+.prize{
+  margin-top: 16px;
+}
+.prize .row{
+  background: #0c1730;
+  border:1px solid rgba(255,255,255,.07);
+  color: var(--text);
+  padding: 10px 12px;
+  border-radius: 10px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+.prize .row + .row{ margin-top:8px; }
+.prize .row.active{
+  border-color: var(--brand);
+  box-shadow: 0 0 0 2px rgba(255,212,0,.15) inset;
+}
+
+/* ======== Feedback ======== */
+#feedback, .feedback{
+  margin-top: 10px;
+  font-weight: 700;
+  color: var(--text);
+}
+.feedback.ok{ color: #a7f3ce; }
+.feedback.bad{ color: #ffb3b3; }
+
+/* ======== Pantallas ======== */
+.screen{ display:none; }
+.screen.active{ display:block; }
+
+/* ======== Botón principal ======== */
+.btn{
+  appearance:none;
+  border-radius: 12px;
+  padding: 12px 16px;
+  border:1px solid transparent;
+  font-weight:800;
+  letter-spacing:.2px;
+  cursor:pointer;
+  color:#0a1020;
+  background: var(--brand);
+  box-shadow: 0 6px 0 rgba(0,0,0,.25);
+}
+.btn:hover{ filter: brightness(1.05); }
+.btn:active{ transform: translateY(1px); }
+
+/* ======== Utilidades ======== */
+.hide{ display:none !important; }
+
+/* ======== iOS Safari / safe areas ======== */
+@supports (padding:max(0px)){
+  .container{ padding-left: max(14px, env(safe-area-inset-left)); padding-right:max(14px, env(safe-area-inset-right)); }
+}
+
+/* ======== Modo claro (por si alguien lo fuerza) ======== */
+@media (prefers-color-scheme: light){
+  body{ background:#f7f8fc; color:#0d1b2a; }
+  .card{ background:#ffffff; border-color:#dfe6f5; }
+  #q-text,.q-text{ color:#0d1b2a; }
+  .answer{
+    background:#ffffff;
+    border-color:#c9d6ee;
+    color:#0d1b2a;
+  }
+  .answer .label{ color:#0d1b2a; }
+}
