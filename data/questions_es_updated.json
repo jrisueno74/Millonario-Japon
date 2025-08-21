@@ -1,0 +1,2576 @@
+[
+  {
+    "text": "¿Qué significa “Konnichiwa gozaimasu”?",
+    "options": [
+      "Buenos días educado",
+      "Hola muy formal",
+      "Adiós",
+      "Gracias"
+    ],
+    "answer": 1,
+    "hint": "Saludo formal para medio día/tarde.",
+    "category": "Idioma",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué bebida probasteis con frecuencia en las máquinas expendedoras?",
+    "options": [
+      "Fanta de uva",
+      "Matcha",
+      "Cider",
+      "Café Boss"
+    ],
+    "answer": 0,
+    "hint": "¡La morada! La favorita del viaje.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué animales visteis en el Capyneko Café de Harajuku?",
+    "options": [
+      "Perros y zorros",
+      "Capibaras y gatos",
+      "Nutrias y búhos",
+      "Cerditos y conejos"
+    ],
+    "answer": 1,
+    "hint": "Era un café mixto: capibaras + gatos.",
+    "category": "Experiencia",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué ciudad japonesa es conocida como la capital de los templos?",
+    "options": [
+      "Tokio",
+      "Kioto",
+      "Osaka",
+      "Hiroshima"
+    ],
+    "answer": 1,
+    "hint": "Kioto fue capital imperial y tiene cientos de templos.",
+    "category": "Geografía",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué significa “arigatō gozaimasu”?",
+    "options": [
+      "Hola",
+      "Gracias",
+      "Perdón",
+      "Por favor"
+    ],
+    "answer": 1,
+    "hint": "Versión respetuosa de “gracias”.",
+    "category": "Idioma",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué objeto se sella en los templos como recuerdo de la visita?",
+    "options": [
+      "Ema",
+      "Goshuin",
+      "Omikuji",
+      "Daruma"
+    ],
+    "answer": 1,
+    "hint": "El cuaderno se llama goshuinchō.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué sushi tradicional consiste en pescado colocado encima de arroz?",
+    "options": [
+      "Maki",
+      "Nigiri",
+      "Temaki",
+      "Uramaki"
+    ],
+    "answer": 1,
+    "hint": "Nigiri: arroz + lámina de pescado.",
+    "category": "Gastronomía",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué debes hacer antes de entrar a un templo?",
+    "options": [
+      "Quitarte los zapatos",
+      "Beber sake",
+      "Comprar un ema",
+      "Comer un daifuku"
+    ],
+    "answer": 0,
+    "hint": "Etiqueta básica en espacios sagrados.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué fruta se esconde dentro del famoso daifuku de Tsukiji Market?",
+    "options": [
+      "Mango",
+      "Fresa",
+      "Uva",
+      "Melón"
+    ],
+    "answer": 1,
+    "hint": "El ichigo-daifuku llevaba fresa.",
+    "category": "Gastronomía",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué significa la palabra “sensei”?",
+    "options": [
+      "Alumno",
+      "Maestro",
+      "Amigo",
+      "Jefe"
+    ],
+    "answer": 1,
+    "hint": "Docentes, médicos y expertos.",
+    "category": "Idioma",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Cómo se llama el tren bala japonés?",
+    "options": [
+      "JR Express",
+      "Shinkansen",
+      "Tokaido",
+      "Monorail"
+    ],
+    "answer": 1,
+    "hint": "Rápido, puntual y silencioso.",
+    "category": "Transporte",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué gesto hacen los japoneses al saludar formalmente?",
+    "options": [
+      "Aplausos",
+      "Sonrisa",
+      "Inclinación",
+      "Beso en la mejilla"
+    ],
+    "answer": 2,
+    "hint": "El grado de inclinación marca respeto.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué animal es símbolo de buena suerte en Japón?",
+    "options": [
+      "Gato Maneki-neko",
+      "Zorro Kitsune",
+      "Grulla",
+      "Todos los anteriores"
+    ],
+    "answer": 3,
+    "hint": "Según el contexto, los tres traen fortuna.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Cómo se dice “familia” en japonés?",
+    "options": [
+      "Gakkō",
+      "Kazoku",
+      "Tomodachi",
+      "Kodomo"
+    ],
+    "answer": 1,
+    "hint": "Kazoku = familia.",
+    "category": "Idioma",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué ciudad es famosa por Dotonbori y el cartel de Glico?",
+    "options": [
+      "Kioto",
+      "Hiroshima",
+      "Osaka",
+      "Nagoya"
+    ],
+    "answer": 2,
+    "hint": "Zona icónica de Osaka.",
+    "category": "Geografía",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué significa “itadakimasu” antes de comer?",
+    "options": [
+      "Buen provecho",
+      "Gracias por la comida",
+      "A comer",
+      "Hola"
+    ],
+    "answer": 1,
+    "hint": "Agradecimiento antes de probar bocado.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué isla visitáis para dormir en un ryokan junto al mar?",
+    "options": [
+      "Okinawa",
+      "Hokkaido",
+      "Miyajima",
+      "Shikoku"
+    ],
+    "answer": 2,
+    "hint": "El gran torii está allí.",
+    "category": "Geografía",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué hay que hacer con las manos antes de rezar en un santuario?",
+    "options": [
+      "Dos palmadas",
+      "Tres palmadas",
+      "Ninguna",
+      "Girar en círculo"
+    ],
+    "answer": 0,
+    "hint": "Shinto: moneda, dos palmadas, reverencia.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué significa “sayonara”?",
+    "options": [
+      "Hola",
+      "Gracias",
+      "Adiós",
+      "Perdón"
+    ],
+    "answer": 2,
+    "hint": "Despedida más formal y definitiva.",
+    "category": "Idioma",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué deporte nacional tiene luchadores llamados rikishi?",
+    "options": [
+      "Karate",
+      "Sumo",
+      "Judo",
+      "Kendō"
+    ],
+    "answer": 1,
+    "hint": "Se disputa sobre un dohyō circular.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué ciudad fue la primera capital de Japón antes de Kioto?",
+    "options": [
+      "Osaka",
+      "Nara",
+      "Kamakura",
+      "Sapporo"
+    ],
+    "answer": 1,
+    "hint": "Nara (periodo Nara).",
+    "category": "Historia",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué famoso cruce de peatones se encuentra en Tokio?",
+    "options": [
+      "Shibuya Crossing",
+      "Akihabara Street",
+      "Ginza Square",
+      "Ikebukuro Crossing"
+    ],
+    "answer": 0,
+    "hint": "Uno de los más transitados del mundo.",
+    "category": "Geografía",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué significa “oishii”?",
+    "options": [
+      "Caro",
+      "Bonito",
+      "Delicioso",
+      "Picante"
+    ],
+    "answer": 2,
+    "hint": "Para decir que algo está rico.",
+    "category": "Idioma",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué fruta suele ser un regalo de lujo en Japón?",
+    "options": [
+      "Manzana Fuji",
+      "Plátano",
+      "Melón Yubari",
+      "Uvas"
+    ],
+    "answer": 2,
+    "hint": "Se venden en cajas de lujo.",
+    "category": "Cultura",
+    "difficulty": 2
+  },
+  {
+    "text": "¿En qué isla está la ciudad de Hiroshima?",
+    "options": [
+      "Honshu",
+      "Hokkaido",
+      "Kyushu",
+      "Shikoku"
+    ],
+    "answer": 0,
+    "hint": "La isla principal de Japón.",
+    "category": "Geografía",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué animal se considera mensajero de los dioses en el sintoísmo?",
+    "options": [
+      "Gato",
+      "Zorro",
+      "Ciervo",
+      "Grulla"
+    ],
+    "answer": 1,
+    "hint": "Kitsune, ligado a Inari.",
+    "category": "Cultura",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué significa “nihon/nippon”?",
+    "options": [
+      "Tierra del sol naciente",
+      "Isla de templos",
+      "Pueblo de guerreros",
+      "Reino del este"
+    ],
+    "answer": 0,
+    "hint": "Literalmente “origen del sol”.",
+    "category": "Historia",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué dulce se hace con pasta de judía roja (anko)?",
+    "options": [
+      "Mochi",
+      "Taiyaki",
+      "Dorayaki",
+      "Todos los anteriores"
+    ],
+    "answer": 3,
+    "hint": "Muchos wagashi usan anko.",
+    "category": "Gastronomía",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué personaje famoso fue creado por Sanrio?",
+    "options": [
+      "Totoro",
+      "Hello Kitty",
+      "Doraemon",
+      "Pikachu"
+    ],
+    "answer": 1,
+    "hint": "Icono kawaii mundial.",
+    "category": "Cultura pop",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué es un “ryokan”?",
+    "options": [
+      "Tren",
+      "Hotel tradicional",
+      "Templo",
+      "Restaurante"
+    ],
+    "answer": 1,
+    "hint": "Con tatami, futón y onsen.",
+    "category": "Cultura",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué prefectura es famosa por ciervos libres?",
+    "options": [
+      "Hiroshima",
+      "Osaka",
+      "Nara",
+      "Nagano"
+    ],
+    "answer": 2,
+    "hint": "Se inclinan por galletas.",
+    "category": "Geografía",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Barrio tecnológico y de anime en Tokio?",
+    "options": [
+      "Shinjuku",
+      "Akihabara",
+      "Roppongi",
+      "Ginza"
+    ],
+    "answer": 1,
+    "hint": "Tiendas, arcades y electrónica.",
+    "category": "Geografía",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué bebida tradicional acompaña al sushi?",
+    "options": [
+      "Sake",
+      "Matcha",
+      "Cider",
+      "Shochu"
+    ],
+    "answer": 0,
+    "hint": "Aunque también té verde.",
+    "category": "Gastronomía",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Ritual del 1 de enero en Japón?",
+    "options": [
+      "Comer ramen",
+      "Hatsumōde (ir al templo)",
+      "Lanzar monedas",
+      "Ver anime"
+    ],
+    "answer": 1,
+    "hint": "Primera visita del año al santuario.",
+    "category": "Cultura",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué significa “samurái”?",
+    "options": [
+      "Guerrero",
+      "El que sirve",
+      "Maestro",
+      "Jefe"
+    ],
+    "answer": 1,
+    "hint": "Etimológicamente “servir”.",
+    "category": "Historia",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Puerta flotante roja de Miyajima?",
+    "options": [
+      "Kaminarimon",
+      "Torii de Itsukushima",
+      "Fushimi Torii",
+      "Kinkaku-ji"
+    ],
+    "answer": 1,
+    "hint": "Torii sobre el mar.",
+    "category": "Geografía",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Transporte más puntual de Japón?",
+    "options": [
+      "Autobuses",
+      "Trenes JR",
+      "Metro",
+      "Shinkansen"
+    ],
+    "answer": 3,
+    "hint": "Diferencias de segundos.",
+    "category": "Transporte",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué significa “kanpai”?",
+    "options": [
+      "Salud (brindis)",
+      "Buen viaje",
+      "Felicidades",
+      "A comer"
+    ],
+    "answer": 0,
+    "hint": "Se brinda con “kanpai”.",
+    "category": "Cultura",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Pikachu pertenece a…?",
+    "options": [
+      "Dragon Quest",
+      "Digimon",
+      "Pokémon",
+      "Final Fantasy"
+    ],
+    "answer": 2,
+    "hint": "¡Atrápalos ya!",
+    "category": "Cultura pop",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué significa “gomen nasai”?",
+    "options": [
+      "Hola",
+      "Adiós",
+      "Perdón",
+      "Gracias"
+    ],
+    "answer": 2,
+    "hint": "Disculpa más sentida.",
+    "category": "Idioma",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Monte más alto de Japón?",
+    "options": [
+      "Monte Tate",
+      "Monte Fuji",
+      "Monte Hiei",
+      "Monte Ontake"
+    ],
+    "answer": 1,
+    "hint": "Símbolo visible desde lejos.",
+    "category": "Geografía",
+    "difficulty": 3
+  },
+  {
+    "text": "Capital durante más de mil años hasta 1868?",
+    "options": [
+      "Nara",
+      "Edo",
+      "Kioto",
+      "Osaka"
+    ],
+    "answer": 2,
+    "hint": "La capital imperial.",
+    "category": "Historia",
+    "difficulty": 3
+  },
+  {
+    "text": "Periodo de aislamiento (XVII–XIX)?",
+    "options": [
+      "Meiji",
+      "Heian",
+      "Edo",
+      "Sengoku"
+    ],
+    "answer": 2,
+    "hint": "Sakoku bajo Tokugawa.",
+    "category": "Historia",
+    "difficulty": 3
+  },
+  {
+    "text": "Flor símbolo no oficial de Japón",
+    "options": [
+      "Loto",
+      "Crisantemo",
+      "Sakura",
+      "Peonía"
+    ],
+    "answer": 2,
+    "hint": "Primavera y hanami.",
+    "category": "Cultura",
+    "difficulty": 3
+  },
+  {
+    "text": "Mercado trasladado de Tsukiji a…",
+    "options": [
+      "Nishiki",
+      "Kuromon",
+      "Toyosu",
+      "Ameyoko"
+    ],
+    "answer": 2,
+    "hint": "El gran mercado mayorista.",
+    "category": "Cultura",
+    "difficulty": 3
+  },
+  {
+    "text": "Isla famosa por volcanes y onsen",
+    "options": [
+      "Hokkaido",
+      "Kyushu",
+      "Honshu",
+      "Okinawa"
+    ],
+    "answer": 1,
+    "hint": "Monte Aso, Beppu…",
+    "category": "Geografía",
+    "difficulty": 3
+  },
+  {
+    "text": "Manjar peligroso si no se prepara bien",
+    "options": [
+      "Anguila",
+      "Pulpo",
+      "Fugu (pez globo)",
+      "Atún"
+    ],
+    "answer": 2,
+    "hint": "Requiere licencia especial.",
+    "category": "Gastronomía",
+    "difficulty": 3
+  },
+  {
+    "text": "“Cocina de Japón”",
+    "options": [
+      "Tokio",
+      "Kioto",
+      "Osaka",
+      "Nagoya"
+    ],
+    "answer": 2,
+    "hint": "Takoyaki, okonomiyaki, kushikatsu.",
+    "category": "Gastronomía",
+    "difficulty": 3
+  },
+  {
+    "text": "Sistema de escritura con caracteres chinos",
+    "options": [
+      "Katakana",
+      "Hiragana",
+      "Kanji",
+      "Romaji"
+    ],
+    "answer": 2,
+    "hint": "Ideogramas adoptados.",
+    "category": "Idioma",
+    "difficulty": 3
+  },
+  {
+    "text": "Deporte tradicional de empujar fuera del círculo",
+    "options": [
+      "Karate",
+      "Sumo",
+      "Judo",
+      "Kendo"
+    ],
+    "answer": 1,
+    "hint": "Dohyō de arcilla.",
+    "category": "Cultura",
+    "difficulty": 3
+  },
+  {
+    "text": "Santuario de los miles de torii",
+    "options": [
+      "Meiji Jingu",
+      "Fushimi Inari",
+      "Itsukushima",
+      "Nikko"
+    ],
+    "answer": 1,
+    "hint": "En Kioto.",
+    "category": "Cultura",
+    "difficulty": 3
+  },
+  {
+    "text": "“Otaku” es…",
+    "options": [
+      "Maestro",
+      "Fan obsesivo de anime/manga",
+      "Amigo",
+      "Comerciante"
+    ],
+    "answer": 1,
+    "hint": "Enfocado a aficiones.",
+    "category": "Cultura pop",
+    "difficulty": 3
+  },
+  {
+    "text": "Fiesta de agosto por ancestros",
+    "options": [
+      "Hanami",
+      "Obon",
+      "Setsubun",
+      "Tanabata"
+    ],
+    "answer": 1,
+    "hint": "Linternas y danzas bon.",
+    "category": "Cultura",
+    "difficulty": 3
+  },
+  {
+    "text": "“Rōnin” era…",
+    "options": [
+      "Maestro",
+      "Guerrero sin señor",
+      "Monje",
+      "Comerciante"
+    ],
+    "answer": 1,
+    "hint": "Samurái sin daimyo.",
+    "category": "Historia",
+    "difficulty": 3
+  },
+  {
+    "text": "Primera ciudad bombardeada atómicamente",
+    "options": [
+      "Hiroshima",
+      "Nagasaki",
+      "Tokio",
+      "Kobe"
+    ],
+    "answer": 0,
+    "hint": "6 de agosto de 1945.",
+    "category": "Historia",
+    "difficulty": 3
+  },
+  {
+    "text": "SNW está en…",
+    "options": [
+      "Disneyland",
+      "Fuji-Q",
+      "Universal Studios Japan",
+      "Legoland"
+    ],
+    "answer": 2,
+    "hint": "En Osaka.",
+    "category": "Cultura pop",
+    "difficulty": 3
+  },
+  {
+    "text": "Emperador que impulsó modernización",
+    "options": [
+      "Shōwa",
+      "Meiji",
+      "Taishō",
+      "Edo"
+    ],
+    "answer": 1,
+    "hint": "Restauración Meiji.",
+    "category": "Historia",
+    "difficulty": 3
+  },
+  {
+    "text": "“Itadakimasu” significa…",
+    "options": [
+      "Buen provecho",
+      "Salud",
+      "Gracias",
+      "Adiós"
+    ],
+    "answer": 0,
+    "hint": "Se dice antes de comer.",
+    "category": "Cultura",
+    "difficulty": 3
+  },
+  {
+    "text": "Estación con vista a Fuji + Shinkansen",
+    "options": [
+      "Shinjuku",
+      "Shibuya",
+      "Kawaguchiko",
+      "Shin-Fuji"
+    ],
+    "answer": 3,
+    "hint": "Postal típica del tren y Fuji.",
+    "category": "Geografía",
+    "difficulty": 3
+  },
+  {
+    "text": "Creador de Dragon Ball",
+    "options": [
+      "Naruto",
+      "One Piece",
+      "Dragon Ball",
+      "Bleach"
+    ],
+    "answer": 2,
+    "hint": "Akira Toriyama.",
+    "category": "Cultura pop",
+    "difficulty": 3
+  },
+  {
+    "text": "Religión nativa de Japón",
+    "options": [
+      "Budismo",
+      "Shintoísmo",
+      "Cristianismo",
+      "Taoísmo"
+    ],
+    "answer": 1,
+    "hint": "Kami, santuarios y torii.",
+    "category": "Cultura",
+    "difficulty": 4
+  },
+  {
+    "text": "Batallas WWII más crudas en Japón",
+    "options": [
+      "Okinawa",
+      "Hokkaido",
+      "Shikoku",
+      "Sado"
+    ],
+    "answer": 0,
+    "hint": "Gran batalla del Pacífico.",
+    "category": "Historia",
+    "difficulty": 4
+  },
+  {
+    "text": "“Samurái” literalmente",
+    "options": [
+      "El que sirve",
+      "El que lucha",
+      "El noble",
+      "El protector"
+    ],
+    "answer": 0,
+    "hint": "Servicio al daimyo.",
+    "category": "Historia",
+    "difficulty": 4
+  },
+  {
+    "text": "Primer shogunato",
+    "options": [
+      "Tokugawa",
+      "Kamakura",
+      "Ashikaga",
+      "Edo"
+    ],
+    "answer": 1,
+    "hint": "Siglo XII-XIV.",
+    "category": "Historia",
+    "difficulty": 4
+  },
+  {
+    "text": "Moneda japonesa",
+    "options": [
+      "Won",
+      "Yen",
+      "Yuan",
+      "Peso"
+    ],
+    "answer": 1,
+    "hint": "Símbolo ¥.",
+    "category": "Economía",
+    "difficulty": 4
+  },
+  {
+    "text": "Tren bala japonés",
+    "options": [
+      "Shinkansen",
+      "Monorail",
+      "JR Express",
+      "Rapid Line"
+    ],
+    "answer": 0,
+    "hint": "Puntualidad extrema.",
+    "category": "Transporte",
+    "difficulty": 4
+  },
+  {
+    "text": "Ciudad famosa por ciervos sagrados",
+    "options": [
+      "Kioto",
+      "Nara",
+      "Nikko",
+      "Kanazawa"
+    ],
+    "answer": 1,
+    "hint": "Se inclinan por galletas.",
+    "category": "Geografía",
+    "difficulty": 4
+  },
+  {
+    "text": "Montañas sagradas aparte del Fuji",
+    "options": [
+      "Tateyama",
+      "Hiei",
+      "Osore",
+      "Todas"
+    ],
+    "answer": 3,
+    "hint": "Veneradas por siglos.",
+    "category": "Cultura",
+    "difficulty": 4
+  },
+  {
+    "text": "Ritual en santuario",
+    "options": [
+      "Quitarse zapatos",
+      "Lavarse manos y boca",
+      "Encender incienso",
+      "Aplaudir tres veces"
+    ],
+    "answer": 1,
+    "hint": "Purificación (temizuya).",
+    "category": "Cultura",
+    "difficulty": 4
+  },
+  {
+    "text": "Plato con caldo y fideos",
+    "options": [
+      "Udon",
+      "Soba",
+      "Ramen",
+      "Yakisoba"
+    ],
+    "answer": 2,
+    "hint": "Con chashu, huevo, etc.",
+    "category": "Gastronomía",
+    "difficulty": 4
+  },
+  {
+    "text": "Director de “Los siete samuráis”",
+    "options": [
+      "Miyazaki",
+      "Kurosawa",
+      "Ozu",
+      "Kitano"
+    ],
+    "answer": 1,
+    "hint": "Akira Kurosawa.",
+    "category": "Cine",
+    "difficulty": 4
+  },
+  {
+    "text": "Isla de los gatos",
+    "options": [
+      "Tashirojima",
+      "Naoshima",
+      "Aoshima",
+      "Sado"
+    ],
+    "answer": 0,
+    "hint": "También Aoshima es famosa.",
+    "category": "Curiosidades",
+    "difficulty": 4
+  },
+  {
+    "text": "Creador de Game Boy",
+    "options": [
+      "Sony",
+      "Sega",
+      "Nintendo",
+      "Bandai"
+    ],
+    "answer": 2,
+    "hint": "Gunpei Yokoi en Nintendo.",
+    "category": "Historia tech",
+    "difficulty": 4
+  },
+  {
+    "text": "Distrito de cruces y moda juvenil",
+    "options": [
+      "Shinjuku",
+      "Harajuku",
+      "Akihabara",
+      "Shibuya"
+    ],
+    "answer": 3,
+    "hint": "Shibuya vibra 24/7.",
+    "category": "Geografía",
+    "difficulty": 4
+  },
+  {
+    "text": "Karaoke significa…",
+    "options": [
+      "Canción sin voz",
+      "Música japonesa",
+      "Cantar con amigos",
+      "Voz fuerte"
+    ],
+    "answer": 0,
+    "hint": "Sala + pantallas + letras.",
+    "category": "Cultura",
+    "difficulty": 4
+  },
+  {
+    "text": "Teatro con máscaras",
+    "options": [
+      "Noh",
+      "Kabuki",
+      "Bunraku",
+      "Rakugo"
+    ],
+    "answer": 0,
+    "hint": "Estilizado y ritual.",
+    "category": "Arte",
+    "difficulty": 4
+  },
+  {
+    "text": "Teatro de marionetas",
+    "options": [
+      "Kabuki",
+      "Bunraku",
+      "Noh",
+      "Rakugo"
+    ],
+    "answer": 1,
+    "hint": "Muñecos tallados y narrador.",
+    "category": "Arte",
+    "difficulty": 4
+  },
+  {
+    "text": "Castillo de la “garza blanca”",
+    "options": [
+      "Osaka",
+      "Himeji",
+      "Matsumoto",
+      "Nagoya"
+    ],
+    "answer": 1,
+    "hint": "Blanco brillante.",
+    "category": "Arquitectura",
+    "difficulty": 4
+  },
+  {
+    "text": "Manga significa…",
+    "options": [
+      "Animación",
+      "Historieta",
+      "Pintura",
+      "Teatro"
+    ],
+    "answer": 1,
+    "hint": "Historieta/BD japonesa.",
+    "category": "Cultura pop",
+    "difficulty": 4
+  },
+  {
+    "text": "Estudio de Totoro y Chihiro",
+    "options": [
+      "Toei",
+      "Madhouse",
+      "Studio Ghibli",
+      "Gainax"
+    ],
+    "answer": 2,
+    "hint": "Miyazaki & Takahata.",
+    "category": "Cine",
+    "difficulty": 4
+  },
+  {
+    "text": "Emperador que abdicó en 2019",
+    "options": [
+      "Akihito",
+      "Hirohito",
+      "Naruhito",
+      "Meiji"
+    ],
+    "answer": 0,
+    "hint": "Primera abdicación en 200 años.",
+    "category": "Historia",
+    "difficulty": 5
+  },
+  {
+    "text": "Era actual desde 2019",
+    "options": [
+      "Heisei",
+      "Reiwa",
+      "Showa",
+      "Taisho"
+    ],
+    "answer": 1,
+    "hint": "Reiwa = “bella armonía”.",
+    "category": "Historia",
+    "difficulty": 5
+  },
+  {
+    "text": "Isla más cercana a Corea del Sur",
+    "options": [
+      "Okinawa",
+      "Tsushima",
+      "Sado",
+      "Kyushu"
+    ],
+    "answer": 1,
+    "hint": "Estrecho de Tsushima.",
+    "category": "Geografía",
+    "difficulty": 5
+  },
+  {
+    "text": "Volcán más activo",
+    "options": [
+      "Monte Fuji",
+      "Sakurajima",
+      "Asama",
+      "Ontake"
+    ],
+    "answer": 1,
+    "hint": "En Kagoshima.",
+    "category": "Geografía",
+    "difficulty": 5
+  },
+  {
+    "text": "“Bonsái” significa…",
+    "options": [
+      "Árbol pequeño",
+      "Naturaleza en bandeja",
+      "Bosque mini",
+      "Vida larga"
+    ],
+    "answer": 1,
+    "hint": "Bon-sai: bandeja + plantar.",
+    "category": "Cultura",
+    "difficulty": 5
+  },
+  {
+    "text": "Instrumento de cuerda tipo guitarra",
+    "options": [
+      "Koto",
+      "Shamisen",
+      "Biwa",
+      "Shakuhachi"
+    ],
+    "answer": 1,
+    "hint": "Tres cuerdas y púa (bachi).",
+    "category": "Música",
+    "difficulty": 5
+  },
+  {
+    "text": "Poesía 5-7-5",
+    "options": [
+      "Tanka",
+      "Haiku",
+      "Waka",
+      "Renga"
+    ],
+    "answer": 1,
+    "hint": "Brevísima y sugestiva.",
+    "category": "Literatura",
+    "difficulty": 5
+  },
+  {
+    "text": "Isla del arte con museos modernos",
+    "options": [
+      "Naoshima",
+      "Hokkaido",
+      "Yakushima",
+      "Tashirojima"
+    ],
+    "answer": 0,
+    "hint": "Trienal de Seto Inland Sea.",
+    "category": "Arte",
+    "difficulty": 5
+  },
+  {
+    "text": "Bebida alcohólica tradicional de arroz",
+    "options": [
+      "Shochu",
+      "Sake",
+      "Umeshu",
+      "Awamori"
+    ],
+    "answer": 1,
+    "hint": "Fermentado de arroz.",
+    "category": "Gastronomía",
+    "difficulty": 5
+  },
+  {
+    "text": "Capital antes de Tokio (redund.)",
+    "options": [
+      "Osaka",
+      "Kioto",
+      "Nara",
+      "Kamakura"
+    ],
+    "answer": 1,
+    "hint": "Ya apareció, pero es esencial.",
+    "category": "Historia",
+    "difficulty": 5
+  },
+  {
+    "text": "Isla con cedros milenarios",
+    "options": [
+      "Yakushima",
+      "Hokkaido",
+      "Iriomote",
+      "Shikoku"
+    ],
+    "answer": 0,
+    "hint": "Mononoke vibes.",
+    "category": "Naturaleza",
+    "difficulty": 5
+  },
+  {
+    "text": "Pescado venenoso con licencia",
+    "options": [
+      "Anguila",
+      "Fugu",
+      "Maguro",
+      "Unagi"
+    ],
+    "answer": 1,
+    "hint": "Solo chefs autorizados.",
+    "category": "Gastronomía",
+    "difficulty": 5
+  },
+  {
+    "text": "Empresa del Walkman",
+    "options": [
+      "Sony",
+      "Panasonic",
+      "Toshiba",
+      "Sharp"
+    ],
+    "answer": 0,
+    "hint": "Revolución musical portátil.",
+    "category": "Tech",
+    "difficulty": 5
+  },
+  {
+    "text": "Robots gigantes en el anime (pionero)",
+    "options": [
+      "Dragon Ball",
+      "Mazinger Z",
+      "Gundam",
+      "Evangelion"
+    ],
+    "answer": 1,
+    "hint": "Mazinger popularizó el género.",
+    "category": "Cultura pop",
+    "difficulty": 5
+  },
+  {
+    "text": "Ikebana significa…",
+    "options": [
+      "Jardín seco",
+      "Camino del té",
+      "Arte floral",
+      "Agua pura"
+    ],
+    "answer": 2,
+    "hint": "Arreglo floral.",
+    "category": "Arte",
+    "difficulty": 5
+  },
+  {
+    "text": "“Kara-te” significa…",
+    "options": [
+      "Mano vacía",
+      "Golpe fuerte",
+      "Camino del puño",
+      "Defensa rápida"
+    ],
+    "answer": 0,
+    "hint": "Disciplina okinawense.",
+    "category": "Artes marciales",
+    "difficulty": 5
+  },
+  {
+    "text": "Isla más al norte del país",
+    "options": [
+      "Hokkaido",
+      "Honshu",
+      "Rishiri",
+      "Kunashiri"
+    ],
+    "answer": 0,
+    "hint": "Gran isla septentrional.",
+    "category": "Geografía",
+    "difficulty": 5
+  },
+  {
+    "text": "Empresa de Final Fantasy",
+    "options": [
+      "Konami",
+      "Capcom",
+      "Square Enix",
+      "Sega"
+    ],
+    "answer": 2,
+    "hint": "Antes SquareSoft.",
+    "category": "Cultura pop",
+    "difficulty": 5
+  },
+  {
+    "text": "Autor de Norwegian Wood",
+    "options": [
+      "Mishima",
+      "Murakami",
+      "Kawabata",
+      "Akutagawa"
+    ],
+    "answer": 1,
+    "hint": "Haruki Murakami.",
+    "category": "Literatura",
+    "difficulty": 5
+  },
+  {
+    "text": "Primera ciudad con bomba atómica",
+    "options": [
+      "Nagasaki",
+      "Hiroshima",
+      "Okinawa",
+      "Yokohama"
+    ],
+    "answer": 1,
+    "hint": "6 de agosto de 1945.",
+    "category": "Historia",
+    "difficulty": 5
+  },
+  {
+    "text": "¿Qué dulce japonés suele comerse en verano, hecho de hielo raspado con sirope?",
+    "options": [
+      "Taiyaki",
+      "Kakigori",
+      "Mochi",
+      "Dorayaki"
+    ],
+    "answer": 1,
+    "hint": "Se parece a un granizado pero más suave y esponjoso.",
+    "category": "Dulces",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué barrio de Tokio es famoso por sus tiendas de electrónica y cultura otaku?",
+    "options": [
+      "Asakusa",
+      "Akihabara",
+      "Ginza",
+      "Shibuya"
+    ],
+    "answer": 1,
+    "hint": "Es la zona preferida de los fans de anime y manga.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "En Kioto, ¿qué templo es conocido por su pabellón recubierto de pan de oro?",
+    "options": [
+      "Ginkaku-ji",
+      "Kiyomizudera",
+      "Kinkaku-ji",
+      "Ryoan-ji"
+    ],
+    "answer": 2,
+    "hint": "Su nombre significa 'Pabellón Dorado'.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué snack de Osaka consiste en bolas de masa rellenas de pulpo?",
+    "options": [
+      "Okonomiyaki",
+      "Takoyaki",
+      "Taiyaki",
+      "Onigiri"
+    ],
+    "answer": 1,
+    "hint": "Se cocinan en planchas especiales con huecos redondos.",
+    "category": "Osaka",
+    "difficulty": 1
+  },
+  {
+    "text": "En Miyajima, ¿qué animal anda libremente entre los turistas?",
+    "options": [
+      "Ciervos",
+      "Monos",
+      "Gatos",
+      "Grullas"
+    ],
+    "answer": 0,
+    "hint": "Son considerados mensajeros de los dioses.",
+    "category": "Miyajima",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué se dice antes de comer en Japón como muestra de gratitud?",
+    "options": [
+      "Arigatou",
+      "Oyasuminasai",
+      "Itadakimasu",
+      "Sumimasen"
+    ],
+    "answer": 2,
+    "hint": "Significa 'recibo humildemente'.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué postre típico de Kioto se hace con harina de arroz y canela?",
+    "options": [
+      "Yatsuhashi",
+      "Taiyaki",
+      "Dorayaki",
+      "Mochi"
+    ],
+    "answer": 0,
+    "hint": "Suele ser duro horneado o blando relleno de anko.",
+    "category": "Dulces",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Dónde se encuentra la famosa estatua de Hachikō en Tokio?",
+    "options": [
+      "Shibuya",
+      "Ueno",
+      "Ikebukuro",
+      "Harajuku"
+    ],
+    "answer": 0,
+    "hint": "Está al lado de un cruce muy famoso.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué ritual se hace al entrar a un santuario sintoísta para purificarse?",
+    "options": [
+      "Beber sake",
+      "Lavarse en el temizuya",
+      "Dar tres palmadas",
+      "Encender incienso"
+    ],
+    "answer": 1,
+    "hint": "Usas agua y un cucharón de madera.",
+    "category": "Rituales",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué dulce en forma de hoja de arce es típico de Miyajima?",
+    "options": [
+      "Taiyaki",
+      "Momiji Manju",
+      "Kakigori",
+      "Dango"
+    ],
+    "answer": 1,
+    "hint": "Va relleno de pasta de judía roja.",
+    "category": "Dulces",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Cuál es el mercado de Tokio famoso por su pescado fresco y subasta de atún?",
+    "options": [
+      "Nakamise",
+      "Toyosu",
+      "Ameyoko",
+      "Tsukiji"
+    ],
+    "answer": 1,
+    "hint": "Es el sucesor moderno de Tsukiji.",
+    "category": "Tokio",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué plato de Osaka es una especie de 'pizza japonesa' con repollo y salsa?",
+    "options": [
+      "Okonomiyaki",
+      "Ramen",
+      "Kare",
+      "Tonkatsu"
+    ],
+    "answer": 0,
+    "hint": "Su nombre significa 'a tu gusto'.",
+    "category": "Osaka",
+    "difficulty": 2
+  },
+  {
+    "text": "En Asakusa, ¿cómo se llama la gran puerta con un farol rojo gigante?",
+    "options": [
+      "Kaminarimon",
+      "Torii",
+      "Nijubashi",
+      "Chureito"
+    ],
+    "answer": 0,
+    "hint": "Significa 'puerta del trueno'.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué amuletos de buena suerte se compran en los templos japoneses?",
+    "options": [
+      "Omamori",
+      "Goshuin",
+      "Komainu",
+      "Daruma"
+    ],
+    "answer": 0,
+    "hint": "Suelen ser bolsitas de tela con inscripciones.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué barrio de Tokio es famoso por la moda juvenil y crepes callejeros?",
+    "options": [
+      "Harajuku",
+      "Shinjuku",
+      "Ginza",
+      "Odaiba"
+    ],
+    "answer": 0,
+    "hint": "Su calle más famosa es Takeshita-dōri.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué son los Goshuin que coleccionan los peregrinos?",
+    "options": [
+      "Amuletos",
+      "Sellos y caligrafías",
+      "Inciensos",
+      "Origami"
+    ],
+    "answer": 1,
+    "hint": "Se estampan en un cuaderno especial de templos.",
+    "category": "Rituales",
+    "difficulty": 2
+  },
+  {
+    "text": "En Kioto, ¿qué templo es famoso por su gran terraza de madera sobre la colina?",
+    "options": [
+      "Kiyomizudera",
+      "Kinkaku-ji",
+      "Tofuku-ji",
+      "Fushimi Inari"
+    ],
+    "answer": 0,
+    "hint": "Su nombre significa 'templo del agua pura'.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué snack japonés consiste en bolas de arroz con relleno y alga nori?",
+    "options": [
+      "Onigiri",
+      "Takoyaki",
+      "Okonomiyaki",
+      "Taiyaki"
+    ],
+    "answer": 0,
+    "hint": "Se venden mucho en konbini.",
+    "category": "Comida",
+    "difficulty": 1
+  },
+  {
+    "text": "En Miyajima, ¿qué estructura se ve como flotando en el mar durante la marea alta?",
+    "options": [
+      "Pagoda",
+      "Torii",
+      "Castillo",
+      "Puente"
+    ],
+    "answer": 1,
+    "hint": "Es la puerta sagrada del santuario Itsukushima.",
+    "category": "Miyajima",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué palabra japonesa significa 'gracias'?",
+    "options": [
+      "Konbanwa",
+      "Arigatou",
+      "Ohayou",
+      "Itadakimasu"
+    ],
+    "answer": 1,
+    "hint": "También se puede decir con 'gozaimasu' para mayor formalidad.",
+    "category": "Idioma",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué barrio de Tokio es famoso por sus rascacielos y Kabukichō?",
+    "options": [
+      "Ikebukuro",
+      "Shinjuku",
+      "Shibuya",
+      "Asakusa"
+    ],
+    "answer": 1,
+    "hint": "Aquí está también el edificio del Gobierno Metropolitano.",
+    "category": "Tokio",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué bebida probasteis en las máquinas expendedoras que era de sabor uva?",
+    "options": [
+      "Pepsi",
+      "Ramune",
+      "Fanta Grape",
+      "Calpis"
+    ],
+    "answer": 2,
+    "hint": "Es de una marca muy internacional pero con sabores locales.",
+    "category": "Comida",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué templo de Kioto está rodeado de miles de puertas torii rojas?",
+    "options": [
+      "Fushimi Inari",
+      "Kinkaku-ji",
+      "Ginkaku-ji",
+      "Ryoan-ji"
+    ],
+    "answer": 0,
+    "hint": "Es famoso por sus túneles de torii interminables.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué muñecos rojos japoneses se usan como amuleto de perseverancia y deseos?",
+    "options": [
+      "Kokeshi",
+      "Daruma",
+      "Maneki-neko",
+      "Hina"
+    ],
+    "answer": 1,
+    "hint": "Cuando se pide un deseo se pinta un ojo.",
+    "category": "Cultura",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué calle de Asakusa es famosa por vender souvenirs y snacks tradicionales?",
+    "options": [
+      "Takeshita-dōri",
+      "Nakamise-dōri",
+      "Ameyoko",
+      "Shinsaibashi"
+    ],
+    "answer": 1,
+    "hint": "Conduce directamente al templo Sensō-ji.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué animal aparece en los amuletos de la suerte llamados Maneki-neko?",
+    "options": [
+      "Perro",
+      "Gato",
+      "Zorro",
+      "Conejo"
+    ],
+    "answer": 1,
+    "hint": "Se les conoce como gatos de la fortuna con la patita levantada.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué comida rápida japonesa consiste en fideos salteados con verduras y carne?",
+    "options": [
+      "Ramen",
+      "Soba",
+      "Yakisoba",
+      "Udon"
+    ],
+    "answer": 2,
+    "hint": "A pesar del nombre, no se prepara en sopa sino en plancha.",
+    "category": "Comida",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué barrio de Tokio tiene la famosa calle comercial Ameyoko?",
+    "options": [
+      "Ueno",
+      "Shinjuku",
+      "Asakusa",
+      "Ikebukuro"
+    ],
+    "answer": 0,
+    "hint": "Está cerca del parque y del zoo más famoso de Tokio.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué templo de Kioto es conocido como el Pabellón de Plata?",
+    "options": [
+      "Kinkaku-ji",
+      "Ginkaku-ji",
+      "Tofuku-ji",
+      "Nanzen-ji"
+    ],
+    "answer": 1,
+    "hint": "Su nombre contrasta con el del Pabellón Dorado.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué muñeco japonés se considera que trae buena suerte cuando se agita?",
+    "options": [
+      "Daruma",
+      "Maneki-neko",
+      "Kokeshi",
+      "Hina Ningyo"
+    ],
+    "answer": 1,
+    "hint": "Suele ser blanco o dorado, con la patita en alto.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué dulce relleno de pasta de judía roja tiene forma de pez?",
+    "options": [
+      "Mochi",
+      "Taiyaki",
+      "Dorayaki",
+      "Manju"
+    ],
+    "answer": 1,
+    "hint": "Su forma imita a un pez tai.",
+    "category": "Dulces",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué isla cerca de Hiroshima es famosa por su santuario y torii flotante?",
+    "options": [
+      "Miyajima",
+      "Okinawa",
+      "Hokkaido",
+      "Yakushima"
+    ],
+    "answer": 0,
+    "hint": "También se la conoce como Itsukushima.",
+    "category": "Miyajima",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué bebida refrescante se vende en botellas con una bolita de vidrio en el cuello?",
+    "options": [
+      "Calpis",
+      "Ramune",
+      "Fanta",
+      "Matcha Latte"
+    ],
+    "answer": 1,
+    "hint": "Es muy popular en los festivales japoneses.",
+    "category": "Comida",
+    "difficulty": 1
+  },
+  {
+    "text": "En Osaka, ¿qué calle es famosa por sus letreros luminosos como el del Glico Man?",
+    "options": [
+      "Shinsaibashi",
+      "Dotombori",
+      "Amerikamura",
+      "Namba"
+    ],
+    "answer": 1,
+    "hint": "Es la zona más animada para cenar y pasear junto al canal.",
+    "category": "Osaka",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué templo budista de Nara es famoso por su gran estatua de Buda?",
+    "options": [
+      "Todai-ji",
+      "Kofuku-ji",
+      "Kasuga Taisha",
+      "Horyu-ji"
+    ],
+    "answer": 0,
+    "hint": "La estatua se encuentra dentro del Daibutsuden.",
+    "category": "Nara",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué amuleto japonés es una tablilla de madera donde se escriben deseos?",
+    "options": [
+      "Ema",
+      "Omamori",
+      "Daruma",
+      "Torii"
+    ],
+    "answer": 0,
+    "hint": "Se cuelgan en los templos para que los dioses los lean.",
+    "category": "Rituales",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué postre japonés está formado por bolitas de arroz en un pincho?",
+    "options": [
+      "Mochi",
+      "Taiyaki",
+      "Dango",
+      "Manju"
+    ],
+    "answer": 2,
+    "hint": "Pueden ser dulces o salados, según la salsa.",
+    "category": "Dulces",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué barrio de Tokio alberga la isla artificial de entretenimiento Odaiba?",
+    "options": [
+      "Minato",
+      "Odaiba",
+      "Shinjuku",
+      "Ikebukuro"
+    ],
+    "answer": 1,
+    "hint": "Allí está el famoso Gundam gigante.",
+    "category": "Tokio",
+    "difficulty": 2
+  },
+  {
+    "text": "En Kioto, ¿qué calle histórica está llena de casas de té y geishas?",
+    "options": [
+      "Nishiki",
+      "Gion",
+      "Pontocho",
+      "Sanjo"
+    ],
+    "answer": 1,
+    "hint": "Es el barrio más famoso para ver maikos.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué ritual se hace antes de rezar en un santuario sintoísta?",
+    "options": [
+      "Dar una moneda, dos palmadas, una reverencia",
+      "Encender velas",
+      "Comer mochi",
+      "Encender incienso"
+    ],
+    "answer": 0,
+    "hint": "Es la secuencia tradicional frente al altar.",
+    "category": "Rituales",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué famoso cruce peatonal se encuentra en Shibuya?",
+    "options": [
+      "Scramble Crossing",
+      "Rainbow Bridge",
+      "Kabukicho Crossing",
+      "Asakusa Dori"
+    ],
+    "answer": 0,
+    "hint": "Miles de personas lo cruzan al mismo tiempo.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué postre japonés es un bizcocho relleno de anko, de origen portugués?",
+    "options": [
+      "Dorayaki",
+      "Castella",
+      "Manju",
+      "Taiyaki"
+    ],
+    "answer": 1,
+    "hint": "Su nombre viene de 'castella', la tarta de Castilla.",
+    "category": "Dulces",
+    "difficulty": 2
+  },
+  {
+    "text": "En Miyajima, ¿qué pagoda de cinco pisos destaca cerca del santuario?",
+    "options": [
+      "Chureito",
+      "Goju-no-to",
+      "Pagoda Horyu-ji",
+      "Yakushi-ji"
+    ],
+    "answer": 1,
+    "hint": "Su color rojo intenso resalta sobre el paisaje.",
+    "category": "Miyajima",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué barrio de Osaka es famoso por las compras y moda en Shinsaibashi?",
+    "options": [
+      "Amerikamura",
+      "Dotombori",
+      "Shinsaibashi",
+      "Umeda"
+    ],
+    "answer": 2,
+    "hint": "Es una larga galería comercial cubierta.",
+    "category": "Osaka",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué bebida japonesa está hecha a base de té verde en polvo?",
+    "options": [
+      "Sencha",
+      "Matcha",
+      "Hojicha",
+      "Genmaicha"
+    ],
+    "answer": 1,
+    "hint": "Se usa en la ceremonia del té.",
+    "category": "Comida",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué símbolo japonés representa la longevidad y aparece en los templos?",
+    "options": [
+      "Grulla",
+      "Dragón",
+      "Zorro",
+      "Carpa koi"
+    ],
+    "answer": 0,
+    "hint": "Es un ave que se representa también en origami.",
+    "category": "Cultura",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué parque de Tokio es famoso por su estanque con botes y el zoo de pandas?",
+    "options": [
+      "Yoyogi",
+      "Ueno",
+      "Shinjuku Gyoen",
+      "Hibiya"
+    ],
+    "answer": 1,
+    "hint": "Está muy cerca de Ameyoko.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "En Kioto, ¿qué mercado es conocido como 'la cocina de Kioto'?",
+    "options": [
+      "Ameyoko",
+      "Tsukiji",
+      "Nishiki",
+      "Kuromon"
+    ],
+    "answer": 2,
+    "hint": "Allí se prueban muchos encurtidos y dulces locales.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué isla de Osaka alberga el famoso Castillo de Osaka?",
+    "options": [
+      "Nakanoshima",
+      "Honshu",
+      "Shikoku",
+      "Umeda"
+    ],
+    "answer": 0,
+    "hint": "Es una isla fluvial en medio de la ciudad.",
+    "category": "Osaka",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué amuleto japonés tiene forma de muñeco rojo al que se le pintan los ojos?",
+    "options": [
+      "Daruma",
+      "Maneki-neko",
+      "Kokeshi",
+      "Ema"
+    ],
+    "answer": 0,
+    "hint": "Se pinta un ojo al pedir un deseo y el otro al cumplirlo.",
+    "category": "Cultura",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué símbolo japonés de la suerte suele aparecer agitando la mano en restaurantes y tiendas?",
+    "options": [
+      "Daruma",
+      "Maneki-neko",
+      "Kokeshi",
+      "Tanuki"
+    ],
+    "answer": 1,
+    "hint": "Es un gato que levanta una pata como si saludara.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "En Kioto, ¿qué templo es famoso por su jardín de piedras zen?",
+    "options": [
+      "Kinkaku-ji",
+      "Ryoan-ji",
+      "Tofuku-ji",
+      "Ginkaku-ji"
+    ],
+    "answer": 1,
+    "hint": "El jardín tiene 15 rocas, pero nunca se ven todas a la vez.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué dulce japonés se suele regalar en San Valentín y el White Day?",
+    "options": [
+      "Pocky",
+      "Chocolate",
+      "Mochi",
+      "Dorayaki"
+    ],
+    "answer": 1,
+    "hint": "En Japón, en febrero lo regalan las chicas, y en marzo los chicos responden.",
+    "category": "Dulces",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué barrio de Tokio es famoso por sus rascacielos y el mirador gratuito del Gobierno Metropolitano?",
+    "options": [
+      "Shinjuku",
+      "Shibuya",
+      "Ikebukuro",
+      "Ginza"
+    ],
+    "answer": 0,
+    "hint": "Es también la zona de Kabukicho y Omoide Yokocho.",
+    "category": "Tokio",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué ritual hacen los japoneses en Año Nuevo para tener buena suerte?",
+    "options": [
+      "Visitar un santuario",
+      "Comer sushi",
+      "Bailar Bon Odori",
+      "Beber sake caliente"
+    ],
+    "answer": 0,
+    "hint": "Se llama Hatsumōde y ocurre en los primeros días del año.",
+    "category": "Rituales",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué snack japonés son palitos cubiertos de chocolate, muy populares entre jóvenes?",
+    "options": [
+      "KitKat",
+      "Pocky",
+      "Senbei",
+      "Ramune"
+    ],
+    "answer": 1,
+    "hint": "Se celebra incluso un día especial el 11/11.",
+    "category": "Dulces",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué castillo reconstruido es uno de los símbolos de Osaka?",
+    "options": [
+      "Himeji",
+      "Osaka-jō",
+      "Nagoya-jō",
+      "Matsumoto-jō"
+    ],
+    "answer": 1,
+    "hint": "Está rodeado de un gran parque con cerezos.",
+    "category": "Osaka",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué figura de papel japonesa se asocia con la paz y la esperanza?",
+    "options": [
+      "Grulla",
+      "Flor de cerezo",
+      "Torii",
+      "Daruma"
+    ],
+    "answer": 0,
+    "hint": "Sadako dobló mil de ellas tras la bomba de Hiroshima.",
+    "category": "Cultura",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué parque de Kioto está lleno de miles de árboles de bambú?",
+    "options": [
+      "Nara Park",
+      "Arashiyama",
+      "Shinjuku Gyoen",
+      "Ueno"
+    ],
+    "answer": 1,
+    "hint": "Su bosque es uno de los paisajes más fotografiados de Japón.",
+    "category": "Kioto",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué plato japonés es arroz con curry, más dulce que el indio?",
+    "options": [
+      "Katsudon",
+      "Curry Rice",
+      "Oyakodon",
+      "Unagi"
+    ],
+    "answer": 1,
+    "hint": "Suele servirse con arroz blanco y a veces con tonkatsu encima.",
+    "category": "Comida",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué calle comercial de Osaka está cubierta y llena de tiendas de moda?",
+    "options": [
+      "Nakamise-dōri",
+      "Shinsaibashi",
+      "Ameyoko",
+      "Pontocho"
+    ],
+    "answer": 1,
+    "hint": "Se conecta con Dotonbori en Namba.",
+    "category": "Osaka",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué animal se venera en el santuario Fushimi Inari de Kioto?",
+    "options": [
+      "Zorro",
+      "Ciervo",
+      "Dragón",
+      "Grulla"
+    ],
+    "answer": 0,
+    "hint": "Son considerados mensajeros del dios Inari.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué postre japonés son pastelitos rellenos de pasta de judía, muy populares en Kioto?",
+    "options": [
+      "Dorayaki",
+      "Taiyaki",
+      "Manju",
+      "Yatsuhashi"
+    ],
+    "answer": 2,
+    "hint": "Se cuecen al vapor y se sirven en festivales.",
+    "category": "Dulces",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué palabra japonesa significa 'buenos días'?",
+    "options": [
+      "Konnichiwa",
+      "Ohayō gozaimasu",
+      "Konbanwa",
+      "Oyasuminasai"
+    ],
+    "answer": 1,
+    "hint": "Se usa solo por la mañana.",
+    "category": "Idioma",
+    "difficulty": 1
+  },
+  {
+    "text": "En Tokio, ¿qué isla artificial alberga el Miraikan y el Gundam gigante?",
+    "options": [
+      "Odaiba",
+      "Shinjuku",
+      "Ikebukuro",
+      "Shibuya"
+    ],
+    "answer": 0,
+    "hint": "Se conecta con un puente llamado Rainbow Bridge.",
+    "category": "Tokio",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué ritual se hace al sacar un omikuji en un santuario?",
+    "options": [
+      "Leer la fortuna",
+      "Beber té verde",
+      "Encender incienso",
+      "Colgar una tablilla ema"
+    ],
+    "answer": 0,
+    "hint": "Si la suerte es mala, se ata en un árbol o estructura.",
+    "category": "Rituales",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué ciudad japonesa es considerada la cuna del okonomiyaki además de Osaka?",
+    "options": [
+      "Kioto",
+      "Hiroshima",
+      "Tokio",
+      "Nagoya"
+    ],
+    "answer": 1,
+    "hint": "En su versión se cocina con capas de fideos yakisoba.",
+    "category": "Comida",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué puente rojo conecta el santuario Itsukushima con Miyajima?",
+    "options": [
+      "Kintaikyo",
+      "Shinkyo",
+      "Itsukushima Bridge",
+      "Hashidate"
+    ],
+    "answer": 0,
+    "hint": "Está cerca de Iwakuni y es muy fotografiado.",
+    "category": "Miyajima",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué barrio de Tokio es famoso por su lujo y tiendas de marcas internacionales?",
+    "options": [
+      "Harajuku",
+      "Shibuya",
+      "Ginza",
+      "Ikebukuro"
+    ],
+    "answer": 2,
+    "hint": "Es como la 'Milla de Oro' de Japón.",
+    "category": "Tokio",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué bebida japonesa se hace fermentando arroz?",
+    "options": [
+      "Matcha",
+      "Sake",
+      "Shochu",
+      "Umeshu"
+    ],
+    "answer": 1,
+    "hint": "Puede servirse caliente o frío según la temporada.",
+    "category": "Comida",
+    "difficulty": 2
+  },
+  {
+    "text": "En Nara, ¿qué animal se pasea libremente y recibe galletas de los visitantes?",
+    "options": [
+      "Ciervos",
+      "Monos",
+      "Perros",
+      "Gatos"
+    ],
+    "answer": 0,
+    "hint": "Son considerados mensajeros divinos.",
+    "category": "Nara",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué postre japonés son galletas crujientes rellenas de crema, muy populares en Tokio?",
+    "options": [
+      "Tokyo Banana",
+      "Senbei",
+      "Dorayaki",
+      "Pocky"
+    ],
+    "answer": 0,
+    "hint": "Tiene forma de plátano y es un souvenir típico.",
+    "category": "Dulces",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué barrio de Kioto es famoso por su teatro kabuki y restaurantes tradicionales?",
+    "options": [
+      "Gion",
+      "Pontocho",
+      "Nishiki",
+      "Kiyomizu"
+    ],
+    "answer": 1,
+    "hint": "Es una calle estrecha junto al río Kamo.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué festival japonés se celebra en verano con fuegos artificiales y yukatas?",
+    "options": [
+      "Obon",
+      "Tanabata",
+      "Hanami",
+      "Setsubun"
+    ],
+    "answer": 0,
+    "hint": "Es un momento para honrar a los antepasados.",
+    "category": "Festivales",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué barrio de Tokio es famoso por sus centros de videojuegos y máquinas gashapon?",
+    "options": [
+      "Akihabara",
+      "Shinjuku",
+      "Ikebukuro",
+      "Harajuku"
+    ],
+    "answer": 0,
+    "hint": "Es conocido como la meca del anime y los videojuegos.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué dulce japonés está hecho de harina de arroz inflada y miel, típico en festivales?",
+    "options": [
+      "Taiyaki",
+      "Kakigori",
+      "Okoshi",
+      "Dango"
+    ],
+    "answer": 2,
+    "hint": "Se parece a una barrita de arroz inflado.",
+    "category": "Dulces",
+    "difficulty": 2
+  },
+  {
+    "text": "En Kioto, ¿qué lugar está decorado con cientos de faroles y dedicado a las geishas?",
+    "options": [
+      "Yasaka Jinja",
+      "Kiyomizudera",
+      "Tofuku-ji",
+      "Heian Jingu"
+    ],
+    "answer": 0,
+    "hint": "Se encuentra en el barrio de Gion.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué snack japonés son galletas de arroz saladas o dulces?",
+    "options": [
+      "Senbei",
+      "Pocky",
+      "Dorayaki",
+      "Manju"
+    ],
+    "answer": 0,
+    "hint": "Crujientes y muy típicas para acompañar té verde.",
+    "category": "Dulces",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué barrio de Osaka es conocido como 'Amemura' y tiene ambiente juvenil y alternativo?",
+    "options": [
+      "Shinsaibashi",
+      "Amerikamura",
+      "Namba",
+      "Dotombori"
+    ],
+    "answer": 1,
+    "hint": "Su nombre significa 'Pueblo Americano'.",
+    "category": "Osaka",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué ritual hacen los japoneses en verano para honrar a los antepasados?",
+    "options": [
+      "Hatsumode",
+      "Hanami",
+      "Obon",
+      "Setsubun"
+    ],
+    "answer": 2,
+    "hint": "Se encienden faroles y se baila Bon Odori.",
+    "category": "Rituales",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué dulce japonés consiste en un bizcocho redondo relleno de anko?",
+    "options": [
+      "Dorayaki",
+      "Taiyaki",
+      "Mochi",
+      "Manju"
+    ],
+    "answer": 0,
+    "hint": "Es el dulce favorito de Doraemon.",
+    "category": "Dulces",
+    "difficulty": 1
+  },
+  {
+    "text": "En Miyajima, ¿qué animal marino se cultiva y se sirve en muchos restaurantes?",
+    "options": [
+      "Atún",
+      "Ostras",
+      "Anguilas",
+      "Pulpo"
+    ],
+    "answer": 1,
+    "hint": "Se pueden probar asadas, fritas o en sopa.",
+    "category": "Miyajima",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué parque de Kioto está lleno de ciervos sagrados, al igual que en Nara?",
+    "options": [
+      "Arashiyama",
+      "Nara Park",
+      "Hibiya",
+      "Ueno"
+    ],
+    "answer": 1,
+    "hint": "Los visitantes les dan galletas especiales llamadas shika-senbei.",
+    "category": "Nara",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué bebida japonesa es un refresco blanco y lechoso con sabor suave?",
+    "options": [
+      "Calpis",
+      "Ramune",
+      "Matcha",
+      "Shochu"
+    ],
+    "answer": 0,
+    "hint": "Su nombre a veces se escribe como 'Calpico'.",
+    "category": "Comida",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué monumento de Hiroshima recuerda a las víctimas de la bomba atómica?",
+    "options": [
+      "Castillo de Hiroshima",
+      "Cúpula de la Bomba Atómica",
+      "Itsukushima",
+      "Parque de la Paz"
+    ],
+    "answer": 1,
+    "hint": "Es un edificio que quedó en pie tras la explosión.",
+    "category": "Hiroshima",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué templo de Kioto tiene un enorme torii rojo en la entrada y un estanque con carpas?",
+    "options": [
+      "Heian Jingu",
+      "Kiyomizudera",
+      "Ryoan-ji",
+      "Ginkaku-ji"
+    ],
+    "answer": 0,
+    "hint": "Fue construido en honor al aniversario de Kioto como capital.",
+    "category": "Kioto",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué snack japonés viene en muchísimos sabores regionales, como té verde o wasabi?",
+    "options": [
+      "Pocky",
+      "KitKat",
+      "Senbei",
+      "Ramune"
+    ],
+    "answer": 1,
+    "hint": "En Japón hay ediciones limitadas en cada prefectura.",
+    "category": "Dulces",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué puente conecta Odaiba con el centro de Tokio?",
+    "options": [
+      "Rainbow Bridge",
+      "Tokyo Tower",
+      "Sky Tree Bridge",
+      "Sumida Bridge"
+    ],
+    "answer": 0,
+    "hint": "Se ilumina por la noche con colores diferentes.",
+    "category": "Tokio",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué plato japonés consiste en brochetas de pollo a la parrilla?",
+    "options": [
+      "Okonomiyaki",
+      "Yakitori",
+      "Unagi",
+      "Sukiyaki"
+    ],
+    "answer": 1,
+    "hint": "Se sirve mucho en izakayas como aperitivo.",
+    "category": "Comida",
+    "difficulty": 1
+  },
+  {
+    "text": "En Osaka, ¿qué edificio futurista tiene dos torres unidas por una plataforma flotante?",
+    "options": [
+      "Osaka Castle",
+      "Umeda Sky Building",
+      "Abeno Harukas",
+      "Namba Tower"
+    ],
+    "answer": 1,
+    "hint": "Desde su mirador se ve toda la ciudad.",
+    "category": "Osaka",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué amuleto japonés es un cuaderno donde se coleccionan sellos de templos?",
+    "options": [
+      "Goshuincho",
+      "Ema",
+      "Omamori",
+      "Maneki-neko"
+    ],
+    "answer": 0,
+    "hint": "Cada templo estampa y dibuja caligrafía en él.",
+    "category": "Rituales",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué barrio de Tokio es famoso por su Pokémon Center y Sunshine City?",
+    "options": [
+      "Shinjuku",
+      "Ikebukuro",
+      "Akihabara",
+      "Harajuku"
+    ],
+    "answer": 1,
+    "hint": "Allí hay también un acuario en un rascacielos.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué dulce japonés se asa en brochetas y se cubre con salsa de soja dulce?",
+    "options": [
+      "Mochi",
+      "Dango",
+      "Senbei",
+      "Taiyaki"
+    ],
+    "answer": 1,
+    "hint": "Es muy popular en festivales de primavera.",
+    "category": "Dulces",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué símbolo japonés de protección se coloca en las entradas de los templos?",
+    "options": [
+      "Torii",
+      "Komainu",
+      "Daruma",
+      "Omamori"
+    ],
+    "answer": 1,
+    "hint": "Son estatuas de leones-perros guardianes.",
+    "category": "Rituales",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué barrio de Tokio tiene un famoso cruce y la estatua de Hachikō?",
+    "options": [
+      "Shibuya",
+      "Shinjuku",
+      "Ikebukuro",
+      "Asakusa"
+    ],
+    "answer": 0,
+    "hint": "Es una de las zonas más concurridas del mundo.",
+    "category": "Tokio",
+    "difficulty": 1
+  },
+  {
+    "text": "¿Qué comida japonesa consiste en cerdo empanado frito, servido con arroz?",
+    "options": [
+      "Tonkatsu",
+      "Tempura",
+      "Okonomiyaki",
+      "Unagi"
+    ],
+    "answer": 0,
+    "hint": "Se parece a la milanesa pero más gruesa.",
+    "category": "Comida",
+    "difficulty": 1
+  },
+  {
+    "text": "En Kioto, ¿qué festival de julio decora enormes carrozas llamadas yamaboko?",
+    "options": [
+      "Gion Matsuri",
+      "Obon",
+      "Tanabata",
+      "Setsubun"
+    ],
+    "answer": 0,
+    "hint": "Es el festival más famoso de Kioto.",
+    "category": "Festivales",
+    "difficulty": 2
+  },
+  {
+    "text": "¿Qué torre de Tokio mide más de 600 metros y es la más alta del país?",
+    "options": [
+      "Tokyo Tower",
+      "Skytree",
+      "Osaka Tower",
+      "Rainbow Tower"
+    ],
+    "answer": 1,
+    "hint": "Desde su mirador se ve hasta el monte Fuji en días claros.",
+    "category": "Tokio",
+    "difficulty": 2
+  }
+]
